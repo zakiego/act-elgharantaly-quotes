@@ -23,7 +23,7 @@ jobs:
         run: npm install
 
       - name: Update index
-        run: node dist/index.js
+        run: npx puyau
 
       - name: Add File
         run: |
