@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.default=void 0;var readConfig=function(){var config=require("../../gitgit.config");return config};var _default=readConfig;exports.default=_default
