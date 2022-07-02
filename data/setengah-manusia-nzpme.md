@@ -62,8 +62,7 @@ Setengah adalah engkau, padahal bukan engkau.
 
 Karena engkau tidak tahu siapa dirimu.
 
-Setengah adalah ketika engkau tidak mengetahui siapa dirimu dan siapa yang 
-engkau cintai, bukan setengah yang lain.
+Setengah adalah ketika engkau tidak mengetahui siapa dirimu dan siapa yang engkau cintai, bukan setengah yang lain.
 
 Atau engkau yang berada di tempat lain di waktu yang sama..
 
@@ -81,9 +80,11 @@ Karena engkau bukan setengah manusia.
 
 Engkau adalah manusia, tercipta untuk hidup, bukan untuk setengah hidup.
 
+<p>&nbsp;</p>
 
 (Khalil Gibran)
 
+<p>&nbsp;</p>
 
 Penerjemah:
-ACT El-Gharantaly
+<p>ACT El-Gharantaly<p/>
