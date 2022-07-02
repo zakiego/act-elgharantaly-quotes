@@ -84,10 +84,10 @@
   dependencies:
     "wrappy" "1"
 
-"puyau@^0.0.6":
-  "integrity" "sha512-AAREzkWBPXlhsNLhazqK5tBW8HMH4QVBk0DeZ4zirhG9o9GPC3RsXe6X3Dhvvq69YJ+PWqVg/HamhT0gFQD36g=="
-  "resolved" "https://registry.npmjs.org/puyau/-/puyau-0.0.6.tgz"
-  "version" "0.0.6"
+"puyau@^0.0.7":
+  "integrity" "sha512-VKcoWesA1XxF2hwNLwIldJWoN5vqFnfd0bzj3+U6OIGBGl7tEX6O3Y7jtROmKsQTTs89WS2HKwUMbvHZC5lgIA=="
+  "resolved" "https://registry.npmjs.org/puyau/-/puyau-0.0.7.tgz"
+  "version" "0.0.7"
   dependencies:
     "front-matter" "^4.0.2"
     "glob" "^8.0.3"
