@@ -80,11 +80,13 @@ Karena engkau bukan setengah manusia.
 
 Engkau adalah manusia, tercipta untuk hidup, bukan untuk setengah hidup.
 
----
+
+
 
 (Khalil Gibran)
 
----
+
+
 
 Penerjemah:
 ACT El-Gharantaly
